@@ -4,8 +4,6 @@ Valinor burst measurement framework super-repository. Please checkout all the su
 
 More information can be found at [in our NSDI paper](https://www.usenix.org/conference/nsdi23/presentation/sharafzadeh).
 
-Also checkout [Valinor super repository](https://github.com/hopnets/valinor-artifacts).
-
 ### Requirements for Valinor measurement framework
 
 Please refer to individual README files for instructions on how to install and run Valinor.
