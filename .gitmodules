@@ -1,0 +1,12 @@
+[submodule "valinor-n"]
+	path = valinor-n
+	url = https://github.com/hopnets/valinor-n.git
+[submodule "valinor-h"]
+	path = valinor-h
+	url = https://github.com/hopnets/valinor-h.git
+[submodule "valinor-c"]
+	path = valinor-c
+	url = https://github.com/hopnets/valinor-c.git
+[submodule "valinor-o"]
+	path = valinor-o
+	url = https://github.com/hopnets/valinor-o.git
